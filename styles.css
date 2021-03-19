@@ -1,0 +1,9 @@
+.body {
+    color: black;
+    background-color: darkolivegreen;
+}
+
+.p {
+    color: white;
+    text-transform: capitalize;
+}
